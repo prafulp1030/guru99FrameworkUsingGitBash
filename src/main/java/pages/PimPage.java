@@ -22,6 +22,11 @@ public class PimPage {
 		System.out.println("Employee is Created");
 	}
 	
+	public void searchEmployee()
+	{
+		System.out.println("User Search Employee");
+	}
+	
 	
 	
 }

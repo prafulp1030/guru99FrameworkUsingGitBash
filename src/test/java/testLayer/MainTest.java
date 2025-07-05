@@ -23,8 +23,10 @@ public class MainTest {
 		pim.clickOnPimLink();
 
 		pim.clickOnAddEmployeeButton();
-		
+
 		pim.addEmployee("Suraj", "sonar");
+
+		pim.searchEmployee();
 	}
 
 }
