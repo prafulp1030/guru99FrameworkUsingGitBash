@@ -7,4 +7,9 @@ public class HomePage {
 	{
 		System.out.println("Logo is validated ...");
 	}
+	
+	public void validateHomePageTitle()
+	{
+		System.out.println("Home Page title is validated ...");
+	}
 }
