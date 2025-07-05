@@ -15,6 +15,7 @@ public class MainTest {
 
 		home.validateLogo();
 
+		home.validateHomePageTitle();
 	}
 
 }
