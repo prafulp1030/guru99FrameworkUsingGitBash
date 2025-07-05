@@ -22,6 +22,7 @@ public class MainTest {
 
 		pim.clickOnPimLink();
 
+		pim.clickOnAddEmployeeButton();
 	}
 
 }
