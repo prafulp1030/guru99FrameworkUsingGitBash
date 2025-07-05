@@ -14,5 +14,14 @@ public class PimPage {
 	}
 	
 	
+	public void addEmployee(String firstName, String lastName)
+	{
+		System.out.println(firstName);
+		System.out.println(lastName);
+		
+		System.out.println("Employee is Created");
+	}
+	
+	
 	
 }
